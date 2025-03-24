@@ -1,2 +1,2 @@
 # ip-grabber
-a python code to grabb ip and send it to discord webhook
+a python code to grab ip and send it to discord webhook
